@@ -1,9 +1,9 @@
 # cs_footer
 
-### Purpose
+## Purpose
 Hold resources, tools, and html for creating well formatted message templates in JitBit.
 
-### Contents
+## Contents
 - [Original html](./footer.html)
 - [Minification script](./minify.py)
-- [Folder with icons](./icons), [script for minification
+- [Folder with icons](./icons)
